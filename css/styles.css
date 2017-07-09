@@ -1,0 +1,31 @@
+.body {
+  height: 100%;
+  background-color: #8AE2E5;
+}
+.nav {
+  height: 50px;
+  background-color: #707070;
+}
+.nav-items li {
+  float: right;
+  padding: 10px 50px;
+  list-style-type: none;
+  margin: 5px 30px 0px 30px;
+  border-radius: 15px;
+  background-color: #808080;
+}
+.nav-items li:hover {
+  background-color: purple;
+}
+.jumbotron {
+  background-color: #28B3B8;
+  margin-bottom: 0;
+}
+.wells {
+  height: 100%;
+  background-color: lightblue;
+}
+.ipsum {
+  line-height: 30px;
+  text-align: justify;
+}
