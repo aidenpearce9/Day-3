@@ -29,3 +29,10 @@
   line-height: 30px;
   text-align: justify;
 }
+.lm {
+  margin-bottom: 20px;
+}
+.footer {
+  background-color: #125154;
+  color: white;
+}
